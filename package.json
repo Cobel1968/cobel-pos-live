@@ -9,17 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autoprefixer": "10.4.20",
     "next": "16.2.6",
+    "postcss": "8.4.31",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "tailwindcss": "3.4.0"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "autoprefixer": "^10.5.0",
-    "postcss": "^8.5.14",
-    "tailwindcss": "^3.4.19",
     "typescript": "^5"
   }
 }
